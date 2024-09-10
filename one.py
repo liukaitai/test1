@@ -1,1 +1,3 @@
-print('liu')
+print(123)
+for i in range(5):
+    print('hellow')
